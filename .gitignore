@@ -9,6 +9,7 @@ config/secrets.json
 node_modules/
 __pycache__/
 .venv/
+PendingAssignments/
 
 # Ignore files matching a pattern anywhere
 **/temp/
